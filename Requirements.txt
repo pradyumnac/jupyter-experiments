@@ -1,1 +1,5 @@
 Jupyter
+numpy
+matplotlib
+requests
+opencv-python
